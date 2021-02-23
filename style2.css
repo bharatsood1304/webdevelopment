@@ -1,0 +1,18 @@
+#index-h2 {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold,100;
+  font-family: arial;
+  font-weight: 100;
+  text-align: center;
+  text-indent: 30px;
+  text-transform: capitalize;
+  color: blue;
+  letter-spacing: normal;
+}
+#index-p {
+  color: blue;
+}
+.index-courses {
+  color= black;
+}

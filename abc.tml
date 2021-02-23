@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello Bharat</title>
+    <meta charset="utf-8">
+    <style>
+      h2 {
+        color: red;
+        font-size: 50px;
+        margin: 0px;
+        backeground-color: blue;
+        text-algn: center;
+      }
+      p {
+        color: #999999;
+        backgound-color: rgb(0,0,0);
+      }
+    </style>
+    <body>
+      <h2>Welcome Back</h2>
+      <p>Bharat Sood</p>
+    </body>
+</html>
